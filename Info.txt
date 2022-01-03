@@ -1,0 +1,8 @@
+1. MainDomainReg.sol where you can see lot of functionality
+2. Register function to register domain name . 
+   using domain name and topLevel like .com, .in .org etc .
+3. Renew function to renew domain name after 1 year .
+4. getprice of domain name. 
+5. TransferDomain function for transfer domain to newuser , only owner can do this.
+6. withdraw function.
+   
